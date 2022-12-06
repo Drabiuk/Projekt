@@ -47,7 +47,7 @@ def walka():
         print("Przegrana")
         przegrane += 1
 
-#postacie--------------------------
+#postacie--------------------------------------
 zawodnik = [
     {
         'imię':'Michał',
@@ -148,6 +148,7 @@ przeciwnik = [
     }
 ]
 
+#Gra--------------------------------------
 while True:
     print(
         f"""
